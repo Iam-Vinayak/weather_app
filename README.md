@@ -15,7 +15,7 @@ A simple weather application built using **HTML, CSS, and JavaScript** that fetc
 #### 🔧 How to Use:  
 1. Clone the repository:  
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Iam-Vinayak/weather_app.git>
    ```  
 2. Open `index.html` in your browser.  
 3. Enter a city name and get the latest weather updates.  
