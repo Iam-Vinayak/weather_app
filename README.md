@@ -28,9 +28,6 @@ A simple weather application built using **HTML, CSS, and JavaScript** that fetc
 - Show **hourly forecast**  
 - Implement **geolocation-based weather**  
 
-#### 🎨 Screenshots (optional):  
-_Agar UI ka screenshot hai to daal sakta hai._  
-
 #### 🤝 Contributing:  
 Feel free to contribute by submitting issues or pull requests!  
 
